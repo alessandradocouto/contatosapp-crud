@@ -18,6 +18,7 @@ Desenvolvimento de um simples projeto CRUD (lista de contatos) utilizando o Loca
 ![](img/contatosapp.png)
 
 
-:star: Feito com entusiasmo e dedicação por <a href=“https://www.linkedin.com/in/alessandradocouto/“>Alessandra</a> 
+#### :star: Feito com entusiasmo e dedicação por <a href="https://www.linkedin.com/in/alessandradocouto/" title="cami-la" rel="nofollow">alessandra</a>
 
-Atualizações[ Em breve ]
+
+:warning: Atualizações[ Em breve ]
