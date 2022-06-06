@@ -39,13 +39,12 @@ form{
     border: none;
     color: #fff;
     font-weight: 600;
-    background: rgb(234, 67, 98);
+    background-color: #000;
 }
 
 .btn:hover{
     color: #fff;
-    background: rgb(246, 138, 23);
-    background: linear-gradient(225deg, rgb(246, 175, 23) 10%, rgb(247, 164, 160) 36%, rgb(234, 67, 98) 78%);
+    background-color: #ef4262;
     transition: all 0.5s;
 }
 
