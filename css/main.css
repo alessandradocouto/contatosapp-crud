@@ -1,0 +1,96 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #fff;
+}
+
+a{
+    text-decoration: none;
+}
+
+.navbar{
+    background: rgb(246, 138, 23);
+    background: linear-gradient(225deg, #ffc107 0%, rgb(247, 164, 160) 46%, rgb(249, 104, 130) 78%); 
+}
+
+.header__title{
+    font-size: 0.8em;
+    font-weight: 700;
+    color: #fff;
+}
+
+form{
+    background: #e6e6e6;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 1px 2px 7px 2px rgba(12, 12, 12, 0.446);
+}
+
+.form-label{
+    color: #000;
+    font-size: 0.9em;
+}
+
+.btn{
+    border: none;
+    color: #fff;
+    font-weight: 600;
+    background: rgb(234, 67, 98);
+}
+
+.btn:hover{
+    color: #fff;
+    background: rgb(246, 138, 23);
+    background: linear-gradient(225deg, rgb(246, 175, 23) 10%, rgb(247, 164, 160) 36%, rgb(234, 67, 98) 78%);
+    transition: all 0.5s;
+}
+
+.screen-only {
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+}
+
+#input-search{
+    background-color: #e6e6e6;
+}
+
+.content__display__title{
+    font-size:  1em;
+}
+
+.content__subtitle{
+    color: #212529;
+}
+
+.card-link {
+    color: #212529;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.card-link:hover{
+    color: rgb(233, 24, 62);
+}
+
+.text__notFound{
+    color: rgb(233, 24, 62);
+    font-size: 1.6em;
+    font-weight: 600;
+    text-align: center;
+}
+
+.valid{
+    border: 1px solid rgb(13, 218, 26);
+}
+
+.invalid{
+    border: 1px solid rgb(227, 27, 13);
+}
