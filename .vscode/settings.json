@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.useBrowserPreview": true,
+    "liveServer.settings.CustomBrowser": "firefox",
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.useLocalIp": false,
+    "liveServer.settings.useWebExt": false,
+    "livePreview.defaultPreviewPath": "/index.html"
+}
