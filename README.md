@@ -3,7 +3,7 @@
 Desenvolvimento de um simples projeto CRUD (lista de contatos) utilizando o LocalStorage como banco de dados e linguagem Javascript.
 
 
-## ::white_check_mark:: Assuntos Abordados no Desenvolvimento do Projeto:
+## books Assuntos Abordados no Desenvolvimento do Projeto:
 
     - Acesso a de dados com o LocalStorage
     - Uso de regex(expressões regulares) no uso da busca por dados na barra de pesquisa
@@ -13,11 +13,11 @@ Desenvolvimento de um simples projeto CRUD (lista de contatos) utilizando o Loca
     - Utilizado Bootstrap como framework para construção de um layout responsivo para o projeto.
 
 
-### ::rocket:: Preview do projeto
+### rocket Preview do projeto
 
 ![](img/contatosapp.png)
 
 
-#### Feito com entusiasmo e dedicação por ![](https://www.linkedin.com/in/alessandradocouto) 
+#### Feito com entusiasmo e dedicação por ![Alessandra](https://www.linkedin.com/in/alessandradocouto) 
 
 Atualizações[ Em breve ]
