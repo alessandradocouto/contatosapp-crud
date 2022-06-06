@@ -15,7 +15,7 @@ Desenvolvimento de um simples projeto CRUD (lista de contatos) utilizando o Loca
 
 ### ::rocket:: Preview do projeto
 
-![](img/appContacts.webm)
+![](img/contatosapp.png)
 
 
 #### Feito com entusiasmo e dedicação por ![](https://www.linkedin.com/in/alessandradocouto) 
