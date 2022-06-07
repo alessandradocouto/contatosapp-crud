@@ -16,10 +16,12 @@ Desenvolvimento de um simples projeto CRUD (lista de contatos) utilizando o Loca
 
 ### :rocket: Preview do projeto
 
+<a href="https://alessandradocouto.github.io/contatosapp-crud/" title="app contatos online" rel="nofollow">app contatos online</a>
+
 ![](img/contatosapp.png)
 
 
-#### :star: Feito com entusiasmo e dedicação por <a href="https://www.linkedin.com/in/alessandradocouto/" title="cami-la" rel="nofollow">alessandra</a>
+#### :star: Feito com entusiasmo e dedicação por <a href="https://www.linkedin.com/in/alessandradocouto/" title="alessandra" rel="nofollow">alessandra</a>
 
 
 :warning: Atualizações[ Em breve ]
