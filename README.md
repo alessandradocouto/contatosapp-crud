@@ -5,6 +5,7 @@ Desenvolvimento de um simples projeto CRUD (lista de contatos) utilizando o Loca
 
 ## :books: Assuntos Abordados no Desenvolvimento do Projeto:
 
+    - Editar e apagar contato e mostrar na tela  tal mudança, sem carregar a página
     - Acesso a de dados com o LocalStorage
     - Uso de regex(expressões regulares) no uso da busca por dados na barra de pesquisa
     - Otimização aos dados através de higher order function 

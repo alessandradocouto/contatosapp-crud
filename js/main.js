@@ -53,7 +53,7 @@ const renderData = (data) => {
 
   const { codigo, nome, email, telefone } = data;
   const renderHtml = 
-  `<div class="card text-dark bg-warning mb-3" style="max-width:16em;">
+  `<div class="card text-dark bg-warning shadow mb-3" style="max-width:16em;">
       <div class="card-header">
           <h3>${codigo}</h3>
       </div>
@@ -61,14 +61,14 @@ const renderData = (data) => {
         <p class="card-title">${nome}</p>
         <p class="card-text">${email}</p>
         <p class="card-text">${telefone}</p>
-        <a class="card-link link-edit">
+        <button class="card-link link-edit">
           <i class="fa fa-pen"></i> 
           <span class="screen-only">editar</span>   
-        </a>       
-        <a class="card-link link-trash">
+        </button>       
+        <button class="card-link link-trash">
          <i class="fa fa-trash"></i> 
          <span class="screen-only">apagar</span>   
-        </a>                  
+        </button>                  
       </div>
     </div>
     `;

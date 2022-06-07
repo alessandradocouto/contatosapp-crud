@@ -6,7 +6,7 @@
 }
 
 body{
-    background: #fff;
+    background-color: #fff;
 }
 
 a{
@@ -15,7 +15,7 @@ a{
 
 .navbar{
     background: rgb(246, 138, 23);
-    background: linear-gradient(225deg, #ffc107 0%, rgb(247, 164, 160) 46%, rgb(249, 104, 130) 78%); 
+    background: linear-gradient(225deg, #ffc107 0%, rgb(246, 141, 136) 46%, rgb(247, 68, 101) 78%); 
 }
 
 .header__title{
@@ -25,7 +25,7 @@ a{
 }
 
 form{
-    background: #e6e6e6;
+    background-color: #e6e6e6;
     border: 1px solid rgba(0, 0, 0, 0.2);
     box-shadow: 1px 2px 7px 2px rgba(12, 12, 12, 0.446);
 }
@@ -42,7 +42,8 @@ form{
     background-color: #000;
 }
 
-.btn:hover{
+.btn-primary:focus,
+.btn-primary.focus,.btn:hover{
     color: #fff;
     background-color: #ef4262;
     transition: all 0.5s;
@@ -70,6 +71,8 @@ form{
 }
 
 .card-link {
+    border: none;
+    background: transparent;
     color: #212529;
     cursor: pointer;
     transition: all 0.5s;
