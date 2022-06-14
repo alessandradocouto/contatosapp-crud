@@ -22,7 +22,7 @@ Desenvolvimento de um simples projeto CRUD (lista de contatos) utilizando o Loca
 
 
 ## :books: Conhecimentos adquiridos no Desenvolvimento do Projeto:
-
+    - Projeto para Web e Mobile 
     - Respostas(Feedbacks) visuais para o usuário(alertas e inputs);
     - Permite edição e exclusão,, sem carregar a página;
     - Acesso a de dados com o LocalStorage;
