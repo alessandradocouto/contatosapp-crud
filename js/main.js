@@ -299,8 +299,7 @@ const search = (e, newList) => {
       matches = [];
       $containerContacts.textContent = ``;
       const renderSearch = `
-      <p class = "text__notFound">
-      Lista não encontrada.</p>`;
+      <p class = "text__notFound">Contato não encontrado.</p>`;
       $containerContacts.insertAdjacentHTML("beforeend", renderSearch);
     }
     else {
