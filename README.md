@@ -1,6 +1,7 @@
-# :rocket: Projeto CRUD em JAVASCRIPT - Bootstrap & LocalStorage
+# Projeto CRUD em JAVASCRIPT - Bootstrap & LocalStorage
 
-Abrir link do projeto online<a href="https://alessandradocouto.github.io/contatosapp-crud/" title="app contatos online" rel="nofollow">app contatos</a>
+
+Abrir link do projeto online: <a href="https://alessandradocouto.github.io/contatosapp-crud/" title="app contatos online" rel="nofollow">app contatos</a>
 
 
 ![](img/erro-codigo-vazio-cor.png)
@@ -15,7 +16,7 @@ Abrir link do projeto online<a href="https://alessandradocouto.github.io/contato
 ![](img/contatosapp.png)
 
 
-## Sobre o projeto app contatos
+## :rocket: Sobre o projeto app contatos
 
 Desenvolvimento de um simples projeto CRUD (lista de contatos) utilizando o LocalStorage como banco de dados e linguagem Javascript.
 
